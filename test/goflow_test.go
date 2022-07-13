@@ -1,12 +1,12 @@
 package test
 
 import (
-	goflow "INGO-goflow"
-	"INGO-goflow/commons"
-	"INGO-goflow/cores/controllers"
-	"INGO-goflow/cores/graphs"
-	"INGO-goflow/templates/actors/transformers"
 	"context"
+	"goflow"
+	"goflow/commons"
+	"goflow/cores/controllers"
+	"goflow/cores/graphs"
+	"goflow/templates/actors/transformers"
 	"testing"
 	"time"
 )

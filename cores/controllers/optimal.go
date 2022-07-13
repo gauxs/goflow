@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"INGO-goflow/commons"
-	"INGO-goflow/cores/executors"
-	"INGO-goflow/cores/graphs"
 	"fmt"
+	"goflow/commons"
+	"goflow/cores/executors"
+	"goflow/cores/graphs"
 )
 
 type ControllerJobPacket struct {

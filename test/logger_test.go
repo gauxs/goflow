@@ -1,9 +1,9 @@
 package test
 
 import (
-	goflow "INGO-goflow"
-	"INGO-goflow/commons"
 	"errors"
+	"goflow"
+	"goflow/commons"
 	"sync"
 	"testing"
 	"time"

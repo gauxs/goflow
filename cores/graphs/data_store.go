@@ -1,7 +1,7 @@
 package graphs
 
 import (
-	"INGO-goflow/commons"
+	"goflow/commons"
 	"reflect"
 )
 

@@ -1,10 +1,10 @@
 package goflow
 
 import (
-	"INGO-goflow/commons"
-	"INGO-goflow/cores/controllers"
 	"errors"
 	"fmt"
+	"goflow/commons"
+	"goflow/cores/controllers"
 	"sync"
 
 	newrelic "github.com/newrelic/go-agent"

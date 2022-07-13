@@ -1,9 +1,9 @@
 package goflow
 
 import (
-	"INGO-goflow/commons"
-	"INGO-goflow/cores/controllers"
 	"errors"
+	"goflow/commons"
+	"goflow/cores/controllers"
 	"strconv"
 	"time"
 

@@ -1,7 +1,7 @@
 package executors
 
 import (
-	"INGO-goflow/commons"
+	"goflow/commons"
 )
 
 // TODO: reply in proper format using reply packet
